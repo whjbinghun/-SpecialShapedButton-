@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>reversal_pressed.png</file>
+        <file>clockwise_pressed.png</file>
+        <file>bottom_normal.png</file>
+        <file>bottom_pressed.png</file>
+        <file>clockwise_normal.png</file>
+        <file>left_normal.png</file>
+        <file>reversal_normal.png</file>
+        <file>right_normal.png</file>
+        <file>top_normal.png</file>
+    </qresource>
+</RCC>
